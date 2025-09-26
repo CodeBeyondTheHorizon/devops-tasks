@@ -19,8 +19,7 @@ You are working as a **DevOps engineer** and need to analyze application logs fo
    - Extracts and displays only the lines that contain the keyword `ERROR`.
 
 3. Run the script and show the output.
-
-
+   
 
 ## Expected Output
     2025-09-16 10:11:05 ERROR Database connection failed
